@@ -1,7 +1,7 @@
 
 create database `apsredes`;
 
-use apsredes;
+use `apsredes`;
 
 create table consulta (
 id int(10) AUTO_INCREMENT PRIMARY KEY,
